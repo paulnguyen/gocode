@@ -3,7 +3,7 @@
 
 * https://go.dev/doc
 
-## [Tutorial: Getting started](hello/README.md)
+## [Tutorial: Getting started](hello)
 
 A brief Hello, World tutorial to get started. Learn a bit about Go code, tools, packages, and modules.
 
