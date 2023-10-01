@@ -4,6 +4,12 @@
 
 * https://go.dev/doc/tutorial/create-module
 
-![go-get-started](./images/creating-go-modules.png)
+![](./images/creating-go-modules-part-1.png)
+![](./images/creating-go-modules-part-2.png)
+![](./images/creating-go-modules-part-3.png)
+![](./images/creating-go-modules-part-4.png)
+![](./images/creating-go-modules-part-5.png)
+![](./images/creating-go-modules-part-6.png)
+![](./images/creating-go-modules-part-7.png)
 
 
