@@ -1,4 +1,4 @@
-# Go Lang (v1.19)
+# Go Lang (v1.21)
 
 ## Getting Started
 
